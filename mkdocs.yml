@@ -1,0 +1,9 @@
+site_name: Documentação de ASA para AUTOR
+site_author: AUTOR
+site_dir: /var/www/docs
+
+markdown_extensions:
+- pymdownx.emoji
+
+plugins:
+- mermaid2
